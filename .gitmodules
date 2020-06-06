@@ -9,9 +9,9 @@
 	datalad-recursiveinstall = skip
 [submodule "fmriprep"]
 	path = fmriprep
-	url = git@gin.g-node.org:/adswa/OSRfmriprep.git
+	url = https://gin.g-node.org/adswa/OSRfmriprep
 	datalad-id = c786806c-a7c2-11ea-a8f8-9bf13639e0a9
 [submodule "freesurfer"]
 	path = freesurfer
-	url = git@gin.g-node.org:/adswa/OSRfreesurfer.git
+	url = https://gin.g-node.org/adswa/OSRfreesurfer
 	datalad-id = ef9c6d1e-a7c2-11ea-a8f8-9bf13639e0a9
