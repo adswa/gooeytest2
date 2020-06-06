@@ -6,3 +6,7 @@
 	path = .source
 	url = http://store.datalad.org/alias/hcp-structural-preprocessed
 	datalad-id = aef339ec-889f-11ea-9d9c-a0369f287950
+[submodule "fmriprep"]
+	path = fmriprep
+	url = git@gin.g-node.org:/adswa/OSRfmriprep.git
+	datalad-id = c786806c-a7c2-11ea-a8f8-9bf13639e0a9
