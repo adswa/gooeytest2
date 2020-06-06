@@ -2,3 +2,7 @@
 	path = .tools
 	url = /home/adina/fmriprep_toolbox
 	datalad-id = 6715be54-a700-11ea-ac3d-ac1f6bac9bd2
+[submodule ".source"]
+	path = .source
+	url = http://store.datalad.org/alias/hcp-structural-preprocessed
+	datalad-id = aef339ec-889f-11ea-9d9c-a0369f287950
